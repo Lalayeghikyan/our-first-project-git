@@ -1,1 +1,1 @@
-console(1)
+console.loggit(1)
